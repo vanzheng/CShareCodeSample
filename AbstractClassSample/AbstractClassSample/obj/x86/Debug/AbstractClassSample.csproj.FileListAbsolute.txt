@@ -1,0 +1,5 @@
+D:\ProjectGallery\CodeSample\CSharp\AbstractClassSample\AbstractClassSample\bin\Debug\AbstractClassSample.exe
+D:\ProjectGallery\CodeSample\CSharp\AbstractClassSample\AbstractClassSample\bin\Debug\AbstractClassSample.pdb
+D:\ProjectGallery\CodeSample\CSharp\AbstractClassSample\AbstractClassSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\AbstractClassSample\AbstractClassSample\obj\x86\Debug\AbstractClassSample.exe
+D:\ProjectGallery\CodeSample\CSharp\AbstractClassSample\AbstractClassSample\obj\x86\Debug\AbstractClassSample.pdb

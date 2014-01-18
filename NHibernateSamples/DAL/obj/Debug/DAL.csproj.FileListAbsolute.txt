@@ -1,0 +1,10 @@
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\DAL\bin\Debug\hibernate.cfg.xml
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\DAL\bin\Debug\DAL.dll
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\DAL\bin\Debug\DAL.pdb
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\DAL\bin\Debug\Domain.dll
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\DAL\bin\Debug\NHibernate.dll
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\DAL\bin\Debug\Iesi.Collections.dll
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\DAL\bin\Debug\Domain.pdb
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\DAL\obj\Debug\DAL.dll
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\DAL\obj\Debug\DAL.pdb

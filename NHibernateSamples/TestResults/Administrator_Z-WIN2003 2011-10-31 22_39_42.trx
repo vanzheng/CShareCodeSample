@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="e6103112-a3e2-4452-b6ea-f0e85504fc9d" name="Administrator@Z-WIN2003 2011-10-31 22:39:42" runUser="Z-WIN2003\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="1ff1a713-4bdb-454b-96a4-91f58c12e0d9">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\TestResults\Administrator_Z-WIN2003 2011-10-31 22_39_42">
+      <DeploymentItem filename="D:\ProjectGallery\SharedLibs\NHibernate\NHibernate.dll" />
+      <DeploymentItem filename="D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\Domain\bin\Debug\Domain.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="Z-WIN2003" outcome="Warning" timestamp="2011-10-31T22:39:43.9062500+08:00">
+        <Text>Warning: Test Run deployment issue: The assembly or module 'Iesi.Collections' directly or indirectly referenced by the test container 'd:\projectgallery\codesample\csharp\nhibernatesamples\nhibernatesampletests\bin\debug\nhibernatesampletests.dll' was not found.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <Times creation="2011-10-31T22:39:42.4843750+08:00" queuing="2011-10-31T22:39:43.9218750+08:00" start="2011-10-31T22:39:43.9687500+08:00" finish="2011-10-31T22:39:48.4375000+08:00" />
+  <TestDefinitions>
+    <UnitTest name="CanGenerateSchemaTest" storage="d:\projectgallery\codesample\csharp\nhibernatesamples\nhibernatesampletests\bin\debug\nhibernatesampletests.dll" id="b072bd8f-0e85-bf22-572d-86d6a418304b">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="092d7bcb-e4b0-45c0-9226-48635348c912" />
+      <TestMethod codeBase="D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\NHibernateSampleTests\bin\Debug\NHibernateSampleTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="NHibernateSampleTests.GenerateSchemaTests, NHibernateSampleTests" name="CanGenerateSchemaTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b072bd8f-0e85-bf22-572d-86d6a418304b" executionId="092d7bcb-e4b0-45c0-9226-48635348c912" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="092d7bcb-e4b0-45c0-9226-48635348c912" testId="b072bd8f-0e85-bf22-572d-86d6a418304b" testName="CanGenerateSchemaTest" computerName="Z-WIN2003" duration="00:00:02.3587230" startTime="2011-10-31T22:39:43.9843750+08:00" endTime="2011-10-31T22:39:48.3906250+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method NHibernateSampleTests.GenerateSchemaTests.CanGenerateSchemaTest threw exception:  System.IO.FileNotFoundException: Could not load file or assembly 'Iesi.Collections, Version=1.0.1.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4' or one of its dependencies. 系统找不到指定的文件。WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+.</Message>
+          <StackTrace>    at NHibernate.Cfg.Configuration.Reset()
+   at NHibernate.Cfg.Configuration..ctor(SettingsFactory settingsFactory)
+   at NHibernate.Cfg.Configuration..ctor()
+   at NHibernateSampleTests.GenerateSchemaTests.CanGenerateSchemaTest() in D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\NHibernateSampleTests\GenerateSchemaTests.cs:line 22
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

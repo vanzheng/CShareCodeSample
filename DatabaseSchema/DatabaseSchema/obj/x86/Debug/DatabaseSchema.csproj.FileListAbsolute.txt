@@ -1,0 +1,6 @@
+D:\ProjectGallery\CodeSample\CSharp\DatabaseSchema\DatabaseSchema\bin\x86\Debug\DatabaseSchema.exe.config
+D:\ProjectGallery\CodeSample\CSharp\DatabaseSchema\DatabaseSchema\bin\x86\Debug\DatabaseSchema.exe
+D:\ProjectGallery\CodeSample\CSharp\DatabaseSchema\DatabaseSchema\bin\x86\Debug\DatabaseSchema.pdb
+D:\ProjectGallery\CodeSample\CSharp\DatabaseSchema\DatabaseSchema\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\DatabaseSchema\DatabaseSchema\obj\x86\Debug\DatabaseSchema.exe
+D:\ProjectGallery\CodeSample\CSharp\DatabaseSchema\DatabaseSchema\obj\x86\Debug\DatabaseSchema.pdb

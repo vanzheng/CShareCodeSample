@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 21
+/svn/test2/!svn/ver/2
+END
+vssver2.scc
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/test2/!svn/ver/2/vssver2.scc
+END
+TestHastTable.sln
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/test2/!svn/ver/2/TestHastTable.sln
+END
+mssccprj.scc
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/test2/!svn/ver/2/mssccprj.scc
+END
+TestHastTable.suo
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/test2/!svn/ver/2/TestHastTable.suo
+END

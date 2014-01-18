@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NumberedTextBox">
+</Property><Property Name="Solution File" Value="D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\NumberedTextBox.sln">
+</Property><Property Name="User Options File" Value="D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\NumberedTextBox.suo">
+</Property><Property Name="Date" Value="2011年7月9日">
+</Property><Property Name="Time" Value="22:03">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="NumberedTextBox.sln" Description="File successfully backed up as D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\Backup\NumberedTextBox.sln">
+</Event><Event ErrorLevel="0" Project="" Source="NumberedTextBox.suo" Description="File successfully backed up as D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\Backup\NumberedTextBox.suo">
+</Event><Event ErrorLevel="0" Project="NumberedTextBox" Source="NumberedTextBox.csproj" Description="Project file successfully backed up as D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\Backup\NumberedTextBox.csproj">
+</Event><Event ErrorLevel="0" Project="NumberedTextBox" Source="NumberedTextBox.csproj.user" Description="Project user file successfully backed up as D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\Backup\NumberedTextBox.csproj.user">
+</Event><Event ErrorLevel="0" Project="NumberedTextBox" Source="Form1.cs" Description="File successfully backed up as D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="NumberedTextBox" Source="Form1.Designer.cs" Description="File successfully backed up as D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NumberedTextBox" Source="NumberedTextBoxUC.cs" Description="File successfully backed up as D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\Backup\NumberedTextBoxUC.cs">
+</Event><Event ErrorLevel="0" Project="NumberedTextBox" Source="NumberedTextBoxUC.Designer.cs" Description="File successfully backed up as D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\Backup\NumberedTextBoxUC.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NumberedTextBox" Source="Program.cs" Description="File successfully backed up as D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="NumberedTextBox" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NumberedTextBox" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NumberedTextBox" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NumberedTextBox" Source="Properties\Settings.settings" Description="File successfully backed up as D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="NumberedTextBox" Source="Form1.resx" Description="File successfully backed up as D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="NumberedTextBox" Source="NumberedTextBoxUC.resx" Description="File successfully backed up as D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\Backup\NumberedTextBoxUC.resx">
+</Event><Event ErrorLevel="0" Project="NumberedTextBox" Source="Properties\Resources.resx" Description="File successfully backed up as D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="NumberedTextBox" Source="NumberedTextBox.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NumberedTextBox" Source="NumberedTextBox.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NumberedTextBox.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NumberedTextBox.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NumberedTextBox" Source="NumberedTextBox.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

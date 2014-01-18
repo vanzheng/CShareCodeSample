@@ -1,0 +1,8 @@
+<publishData>
+  <publishTarget publishUrl="D:\MySettings\Desktop\WebApplicationTest\">
+    <file relUrl="Default.aspx" publishTime="10/22/2011 00:00:07" />
+    <file relUrl="bin/WebApplicationTest.pdb" publishTime="10/22/2011 00:00:11" />
+    <file relUrl="bin/WebApplicationTest.dll" publishTime="10/22/2011 00:00:11" />
+    <file relUrl="Web.config" publishTime="10/21/2011 23:37:33" />
+  </publishTarget>
+</publishData>

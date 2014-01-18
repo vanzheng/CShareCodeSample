@@ -1,0 +1,7 @@
+D:\ProjectGallery\CodeSample\CSharp\TestConsole\TestConsole\TestConsole\bin\Debug\TestConsole.exe
+D:\ProjectGallery\CodeSample\CSharp\TestConsole\TestConsole\TestConsole\bin\Debug\TestConsole.pdb
+D:\ProjectGallery\CodeSample\CSharp\TestConsole\TestConsole\TestConsole\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\TestConsole\TestConsole\TestConsole\obj\Debug\TestConsole.exe
+D:\ProjectGallery\CodeSample\CSharp\TestConsole\TestConsole\TestConsole\obj\Debug\TestConsole.pdb
+F:\我的微盘\SourceCode\ProjectGallery\CodeSample\CSharp\TestConsole\TestConsole\obj\Debug\TestConsole.exe
+F:\我的微盘\SourceCode\ProjectGallery\CodeSample\CSharp\TestConsole\TestConsole\obj\Debug\TestConsole.pdb

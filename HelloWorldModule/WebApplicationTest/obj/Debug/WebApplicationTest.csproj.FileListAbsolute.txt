@@ -1,0 +1,5 @@
+D:\ProjectGallery\CodeSample\CSharp\HelloWorldModule\WebApplicationTest\bin\WebApplicationTest.dll
+D:\ProjectGallery\CodeSample\CSharp\HelloWorldModule\WebApplicationTest\bin\WebApplicationTest.pdb
+D:\ProjectGallery\CodeSample\CSharp\HelloWorldModule\WebApplicationTest\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\HelloWorldModule\WebApplicationTest\obj\Debug\WebApplicationTest.dll
+D:\ProjectGallery\CodeSample\CSharp\HelloWorldModule\WebApplicationTest\obj\Debug\WebApplicationTest.pdb

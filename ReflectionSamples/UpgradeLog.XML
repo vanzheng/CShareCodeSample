@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ReflectionSamples">
+</Property><Property Name="解决方案文件" Value="D:\ProjectGallery\CodeSample\CSharp\ReflectionSamples\ReflectionSamples.sln">
+</Property><Property Name="用户选项文件" Value="D:\ProjectGallery\CodeSample\CSharp\ReflectionSamples\ReflectionSamples.suo">
+</Property><Property Name="Date" Value="2013年10月13日">
+</Property><Property Name="Time" Value="14:09">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ReflectionSamples.sln" Description="文件已成功备份为 D:\ProjectGallery\CodeSample\CSharp\ReflectionSamples\Backup\ReflectionSamples.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ReflectionSamples.suo" Description="文件已成功备份为 D:\ProjectGallery\CodeSample\CSharp\ReflectionSamples\Backup\ReflectionSamples.suo">
+</Event><Event ErrorLevel="0" Project="ReflectionSamples" Source="ReflectionSamples\ReflectionSamples.csproj" Description="Project file successfully backed up as D:\ProjectGallery\CodeSample\CSharp\ReflectionSamples\Backup\ReflectionSamples\ReflectionSamples.csproj">
+</Event><Event ErrorLevel="0" Project="ReflectionSamples" Source="ReflectionSamples\Program.cs" Description="File successfully backed up as D:\ProjectGallery\CodeSample\CSharp\ReflectionSamples\Backup\ReflectionSamples\Program.cs">
+</Event><Event ErrorLevel="0" Project="ReflectionSamples" Source="ReflectionSamples\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\ProjectGallery\CodeSample\CSharp\ReflectionSamples\Backup\ReflectionSamples\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ReflectionSamples" Source="ReflectionSamples\ReflectionSamples.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ReflectionSamples" Source="ReflectionSamples\ReflectionSamples.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ReflectionSamples.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="ReflectionSamples.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ReflectionSamples" Source="ReflectionSamples\ReflectionSamples.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,5 @@
+D:\ProjectGallery\CodeSample\CSharp\ListCopySample\ListCopySample\bin\Debug\ListCopySample.exe
+D:\ProjectGallery\CodeSample\CSharp\ListCopySample\ListCopySample\bin\Debug\ListCopySample.pdb
+D:\ProjectGallery\CodeSample\CSharp\ListCopySample\ListCopySample\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\ListCopySample\ListCopySample\obj\Debug\ListCopySample.exe
+D:\ProjectGallery\CodeSample\CSharp\ListCopySample\ListCopySample\obj\Debug\ListCopySample.pdb

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/test/!svn/ver/3/TestConsole/TestConsole
+END
+TestConsole.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/test/!svn/ver/3/TestConsole/TestConsole/TestConsole.csproj
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/test/!svn/ver/4/TestConsole/TestConsole/Program.cs
+END

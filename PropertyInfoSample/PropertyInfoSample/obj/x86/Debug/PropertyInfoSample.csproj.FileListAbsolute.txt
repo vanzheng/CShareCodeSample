@@ -1,0 +1,4 @@
+D:\ProjectGallery\CodeSample\CSharp\PropertyInfoSample\PropertyInfoSample\bin\Debug\PropertyInfoSample.exe
+D:\ProjectGallery\CodeSample\CSharp\PropertyInfoSample\PropertyInfoSample\bin\Debug\PropertyInfoSample.pdb
+D:\ProjectGallery\CodeSample\CSharp\PropertyInfoSample\PropertyInfoSample\obj\x86\Debug\PropertyInfoSample.exe
+D:\ProjectGallery\CodeSample\CSharp\PropertyInfoSample\PropertyInfoSample\obj\x86\Debug\PropertyInfoSample.pdb

@@ -1,0 +1,7 @@
+D:\ProjectGallery\CodeSample\CSharp\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+D:\ProjectGallery\CodeSample\CSharp\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+D:\ProjectGallery\CodeSample\CSharp\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+D:\ProjectGallery\CodeSample\CSharp\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+D:\ProjectGallery\CodeSample\CSharp\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+D:\ProjectGallery\CodeSample\CSharp\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb

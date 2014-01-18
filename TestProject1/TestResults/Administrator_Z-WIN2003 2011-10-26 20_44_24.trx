@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="4c7a9dba-9171-4c20-b372-3b75f7d6f8f0" name="Administrator@Z-WIN2003 2011-10-26 20:44:24" runUser="Z-WIN2003\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="27408ed2-1c33-4594-bdfc-228ca070bc0b">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestResults\Administrator_Z-WIN2003 2011-10-26 20_44_24">
+      <DeploymentItem filename="D:\软件测试\软件测试\操作题练习\2\testNetFunction.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Error">
+    <Counters total="18" executed="4" error="0" failed="3" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="14" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="Z-WIN2003" outcome="Error" timestamp="2011-10-26T20:45:10.2500000+08:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <Times creation="2011-10-26T20:44:24.6875000+08:00" queuing="2011-10-26T20:44:32.0937500+08:00" start="2011-10-26T20:44:33.1093750+08:00" finish="2011-10-26T20:45:10.2968750+08:00" />
+  <TestDefinitions>
+    <UnitTest name="TestMethod12" storage="d:\projectgallery\codesample\csharp\testproject1\testproject1\bin\debug\testproject1.dll" id="717e8eeb-b167-6422-26cb-4a3f0a338336">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1" name="TestMethod12" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="d:\projectgallery\codesample\csharp\testproject1\testproject1\bin\debug\testproject1.dll" id="59863143-3238-122e-4d8a-637b491cc755">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="TestMethod3" storage="d:\projectgallery\codesample\csharp\testproject1\testproject1\bin\debug\testproject1.dll" id="778ac384-f4ff-6a8c-7e52-50f4693efe57">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1" name="TestMethod3" />
+    </UnitTest>
+    <UnitTest name="TestMethod8" storage="d:\projectgallery\codesample\csharp\testproject1\testproject1\bin\debug\testproject1.dll" id="ff19ab38-d0c6-9616-e803-711fb1329d28">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1" name="TestMethod8" />
+    </UnitTest>
+    <UnitTest name="TestMethod4" storage="d:\projectgallery\codesample\csharp\testproject1\testproject1\bin\debug\testproject1.dll" id="9df1d9aa-a8c0-dfd7-97f4-25855e430801">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1" name="TestMethod4" />
+    </UnitTest>
+    <UnitTest name="TestMethod6" storage="d:\projectgallery\codesample\csharp\testproject1\testproject1\bin\debug\testproject1.dll" id="6d6a1b4e-19d6-8d2b-0d70-ef9b155c721c">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1" name="TestMethod6" />
+    </UnitTest>
+    <UnitTest name="TestMethod10" storage="d:\projectgallery\codesample\csharp\testproject1\testproject1\bin\debug\testproject1.dll" id="90b3b085-fa31-591a-a607-7e9c973d49b1">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1" name="TestMethod10" />
+    </UnitTest>
+    <UnitTest name="TestMethod9" storage="d:\projectgallery\codesample\csharp\testproject1\testproject1\bin\debug\testproject1.dll" id="28a9b6e9-f1a2-f8cd-67e7-6f6b93621b29">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="5a66e4a4-8577-4bc3-b9a8-d55a3159c5ed" />
+      <TestMethod codeBase="D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1" name="TestMethod9" />
+    </UnitTest>
+    <UnitTest name="TestMethod2" storage="d:\projectgallery\codesample\csharp\testproject1\testproject1\bin\debug\testproject1.dll" id="9381223e-8095-9777-a0c7-26043045171c">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1" name="TestMethod2" />
+    </UnitTest>
+    <UnitTest name="TestMethod7" storage="d:\projectgallery\codesample\csharp\testproject1\testproject1\bin\debug\testproject1.dll" id="d5dd5eea-9dec-89a8-6475-86b2bdfee2dc">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1" name="TestMethod7" />
+    </UnitTest>
+    <UnitTest name="TestMethod5" storage="d:\projectgallery\codesample\csharp\testproject1\testproject1\bin\debug\testproject1.dll" id="632b391a-8204-20df-82d8-b36a6b1c1b67">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1" name="TestMethod5" />
+    </UnitTest>
+    <UnitTest name="TestMethod13" storage="d:\projectgallery\codesample\csharp\testproject1\testproject1\bin\debug\testproject1.dll" id="144a62c6-5d25-ab95-cd28-164b7d9c3f33">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="b1d52e93-7978-4edb-b2c9-743800eb5f29" />
+      <TestMethod codeBase="D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1" name="TestMethod13" />
+    </UnitTest>
+    <UnitTest name="TestMethod15" storage="d:\projectgallery\codesample\csharp\testproject1\testproject1\bin\debug\testproject1.dll" id="42456c65-c0d0-2236-d91b-d5ad9dc64d77">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1" name="TestMethod15" />
+    </UnitTest>
+    <UnitTest name="TestMethod16" storage="d:\projectgallery\codesample\csharp\testproject1\testproject1\bin\debug\testproject1.dll" id="2271d5cb-2807-c8c9-e927-72ba58278231">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="53c64f55-33a1-4d6b-b395-419ab5a935ea" />
+      <TestMethod codeBase="D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1" name="TestMethod16" />
+    </UnitTest>
+    <UnitTest name="TestMethod18" storage="d:\projectgallery\codesample\csharp\testproject1\testproject1\bin\debug\testproject1.dll" id="ad3b6974-4865-3053-e108-d66f083a661a">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1" name="TestMethod18" />
+    </UnitTest>
+    <UnitTest name="TestMethod17" storage="d:\projectgallery\codesample\csharp\testproject1\testproject1\bin\debug\testproject1.dll" id="f6c39598-07a6-c0a1-e8e8-1d1304f94913">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1" name="TestMethod17" />
+    </UnitTest>
+    <UnitTest name="TestMethod14" storage="d:\projectgallery\codesample\csharp\testproject1\testproject1\bin\debug\testproject1.dll" id="8ff3bff6-18d3-150b-6eea-75450ff4f0cd">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1" name="TestMethod14" />
+    </UnitTest>
+    <UnitTest name="TestMethod11" storage="d:\projectgallery\codesample\csharp\testproject1\testproject1\bin\debug\testproject1.dll" id="3fad3c25-07c8-4d3e-b92b-658c5a409fae">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1" name="TestMethod11" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="144a62c6-5d25-ab95-cd28-164b7d9c3f33" executionId="b1d52e93-7978-4edb-b2c9-743800eb5f29" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2271d5cb-2807-c8c9-e927-72ba58278231" executionId="53c64f55-33a1-4d6b-b395-419ab5a935ea" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="28a9b6e9-f1a2-f8cd-67e7-6f6b93621b29" executionId="5a66e4a4-8577-4bc3-b9a8-d55a3159c5ed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3fad3c25-07c8-4d3e-b92b-658c5a409fae" executionId="59b7eb48-e16c-4bce-ac53-ae759d5a6d8f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="42456c65-c0d0-2236-d91b-d5ad9dc64d77" executionId="946229bf-853c-4fae-b35f-0abff5cfd85f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="59863143-3238-122e-4d8a-637b491cc755" executionId="b94819b1-ffa4-4ada-8d5d-921093fef498" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="632b391a-8204-20df-82d8-b36a6b1c1b67" executionId="fe55ac68-da52-456b-a944-e82198894c41" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6d6a1b4e-19d6-8d2b-0d70-ef9b155c721c" executionId="83fe795f-d20b-49a0-9106-275be5dc9f56" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="717e8eeb-b167-6422-26cb-4a3f0a338336" executionId="888c0e55-3054-4229-bb69-3847e39f80a5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="778ac384-f4ff-6a8c-7e52-50f4693efe57" executionId="7b2e915c-de92-4e7d-ada2-ac50c144fc96" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8ff3bff6-18d3-150b-6eea-75450ff4f0cd" executionId="a33e12b8-37ba-460b-9ad2-c23ad3384e13" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="90b3b085-fa31-591a-a607-7e9c973d49b1" executionId="940a45f8-3cb3-4644-b99b-e1381e29344c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9381223e-8095-9777-a0c7-26043045171c" executionId="d3315e1e-2437-460b-b77c-180463e85f03" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9df1d9aa-a8c0-dfd7-97f4-25855e430801" executionId="7c0ea15d-573c-4fd5-ba63-3293a7e64447" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ad3b6974-4865-3053-e108-d66f083a661a" executionId="a2c15379-edf0-4971-92e9-27b85ee655bd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d5dd5eea-9dec-89a8-6475-86b2bdfee2dc" executionId="5a7346c7-9bf6-445f-b8ca-bfc3d9eb534d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f6c39598-07a6-c0a1-e8e8-1d1304f94913" executionId="d81422d0-188f-4039-af4e-7bcb3d006197" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ff19ab38-d0c6-9616-e803-711fb1329d28" executionId="c2049a26-d7b5-46f3-b5b0-c58d0180fdbf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="b1d52e93-7978-4edb-b2c9-743800eb5f29" testId="144a62c6-5d25-ab95-cd28-164b7d9c3f33" testName="TestMethod13" computerName="Z-WIN2003" duration="00:00:00.6117573" startTime="2011-10-26T20:44:33.4062500+08:00" endTime="2011-10-26T20:44:36.6875000+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;1个1毛&gt;. Actual:&lt;硬币最少个数→应找余额: 一角的硬币:1个&gt;. </Message>
+          <StackTrace>   at TestProject1.UnitTest1.TestMethod13() in D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\2.1.10.cs:line 130
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="53c64f55-33a1-4d6b-b395-419ab5a935ea" testId="2271d5cb-2807-c8c9-e927-72ba58278231" testName="TestMethod16" computerName="Z-WIN2003" duration="00:00:00.0176257" startTime="2011-10-26T20:44:36.7343750+08:00" endTime="2011-10-26T20:44:36.7656250+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;3个一元2个1毛&gt;. Actual:&lt;硬币最少个数→应找余额: 一元的硬币:3个 一角的硬币:2个&gt;. </Message>
+          <StackTrace>   at TestProject1.UnitTest1.TestMethod16() in D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\2.1.10.cs:line 157
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5a66e4a4-8577-4bc3-b9a8-d55a3159c5ed" testId="28a9b6e9-f1a2-f8cd-67e7-6f6b93621b29" testName="TestMethod9" computerName="Z-WIN2003" duration="00:00:00.0198388" startTime="2011-10-26T20:44:36.8125000+08:00" endTime="2011-10-26T20:44:36.8437500+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;总额和消费额均不能为零。&gt;. Actual:&lt;总额和消费额均不能为零&gt;. </Message>
+          <StackTrace>   at TestProject1.UnitTest1.TestMethod9() in D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\2.1.10.cs:line 94
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="59b7eb48-e16c-4bce-ac53-ae759d5a6d8f" testId="3fad3c25-07c8-4d3e-b92b-658c5a409fae" testName="TestMethod11" computerName="Z-WIN2003" duration="00:00:33.4062500" startTime="2011-10-26T20:44:36.8750000+08:00" endTime="2011-10-26T20:45:10.2812500+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+    <UnitTestResult executionId="946229bf-853c-4fae-b35f-0abff5cfd85f" testId="42456c65-c0d0-2236-d91b-d5ad9dc64d77" testName="TestMethod15" computerName="Z-WIN2003" duration="00:00:00" startTime="0001-01-01T08:00:00.0000000+08:00" endTime="0001-01-01T08:00:00.0000000+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+    <UnitTestResult executionId="b94819b1-ffa4-4ada-8d5d-921093fef498" testId="59863143-3238-122e-4d8a-637b491cc755" testName="TestMethod1" computerName="Z-WIN2003" duration="00:00:00" startTime="0001-01-01T08:00:00.0000000+08:00" endTime="0001-01-01T08:00:00.0000000+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+    <UnitTestResult executionId="fe55ac68-da52-456b-a944-e82198894c41" testId="632b391a-8204-20df-82d8-b36a6b1c1b67" testName="TestMethod5" computerName="Z-WIN2003" duration="00:00:00" startTime="0001-01-01T08:00:00.0000000+08:00" endTime="0001-01-01T08:00:00.0000000+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+    <UnitTestResult executionId="83fe795f-d20b-49a0-9106-275be5dc9f56" testId="6d6a1b4e-19d6-8d2b-0d70-ef9b155c721c" testName="TestMethod6" computerName="Z-WIN2003" duration="00:00:00" startTime="0001-01-01T08:00:00.0000000+08:00" endTime="0001-01-01T08:00:00.0000000+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+    <UnitTestResult executionId="888c0e55-3054-4229-bb69-3847e39f80a5" testId="717e8eeb-b167-6422-26cb-4a3f0a338336" testName="TestMethod12" computerName="Z-WIN2003" duration="00:00:00" startTime="0001-01-01T08:00:00.0000000+08:00" endTime="0001-01-01T08:00:00.0000000+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+    <UnitTestResult executionId="7b2e915c-de92-4e7d-ada2-ac50c144fc96" testId="778ac384-f4ff-6a8c-7e52-50f4693efe57" testName="TestMethod3" computerName="Z-WIN2003" duration="00:00:00" startTime="0001-01-01T08:00:00.0000000+08:00" endTime="0001-01-01T08:00:00.0000000+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+    <UnitTestResult executionId="a33e12b8-37ba-460b-9ad2-c23ad3384e13" testId="8ff3bff6-18d3-150b-6eea-75450ff4f0cd" testName="TestMethod14" computerName="Z-WIN2003" duration="00:00:00" startTime="0001-01-01T08:00:00.0000000+08:00" endTime="0001-01-01T08:00:00.0000000+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+    <UnitTestResult executionId="940a45f8-3cb3-4644-b99b-e1381e29344c" testId="90b3b085-fa31-591a-a607-7e9c973d49b1" testName="TestMethod10" computerName="Z-WIN2003" duration="00:00:00" startTime="0001-01-01T08:00:00.0000000+08:00" endTime="0001-01-01T08:00:00.0000000+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+    <UnitTestResult executionId="d3315e1e-2437-460b-b77c-180463e85f03" testId="9381223e-8095-9777-a0c7-26043045171c" testName="TestMethod2" computerName="Z-WIN2003" duration="00:00:00" startTime="0001-01-01T08:00:00.0000000+08:00" endTime="0001-01-01T08:00:00.0000000+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+    <UnitTestResult executionId="7c0ea15d-573c-4fd5-ba63-3293a7e64447" testId="9df1d9aa-a8c0-dfd7-97f4-25855e430801" testName="TestMethod4" computerName="Z-WIN2003" duration="00:00:00" startTime="0001-01-01T08:00:00.0000000+08:00" endTime="0001-01-01T08:00:00.0000000+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+    <UnitTestResult executionId="a2c15379-edf0-4971-92e9-27b85ee655bd" testId="ad3b6974-4865-3053-e108-d66f083a661a" testName="TestMethod18" computerName="Z-WIN2003" duration="00:00:00" startTime="0001-01-01T08:00:00.0000000+08:00" endTime="0001-01-01T08:00:00.0000000+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+    <UnitTestResult executionId="5a7346c7-9bf6-445f-b8ca-bfc3d9eb534d" testId="d5dd5eea-9dec-89a8-6475-86b2bdfee2dc" testName="TestMethod7" computerName="Z-WIN2003" duration="00:00:00" startTime="0001-01-01T08:00:00.0000000+08:00" endTime="0001-01-01T08:00:00.0000000+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+    <UnitTestResult executionId="d81422d0-188f-4039-af4e-7bcb3d006197" testId="f6c39598-07a6-c0a1-e8e8-1d1304f94913" testName="TestMethod17" computerName="Z-WIN2003" duration="00:00:00" startTime="0001-01-01T08:00:00.0000000+08:00" endTime="0001-01-01T08:00:00.0000000+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+    <UnitTestResult executionId="c2049a26-d7b5-46f3-b5b0-c58d0180fdbf" testId="ff19ab38-d0c6-9616-e803-711fb1329d28" testName="TestMethod8" computerName="Z-WIN2003" duration="00:00:00" startTime="0001-01-01T08:00:00.0000000+08:00" endTime="0001-01-01T08:00:00.0000000+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+  </Results>
+</TestRun>

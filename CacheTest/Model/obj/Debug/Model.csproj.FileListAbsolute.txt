@@ -1,0 +1,4 @@
+D:\ProjectGallery\CodeSample\CSharp\CacheTest\Model\bin\Debug\Model.dll
+D:\ProjectGallery\CodeSample\CSharp\CacheTest\Model\bin\Debug\Model.pdb
+D:\ProjectGallery\CodeSample\CSharp\CacheTest\Model\obj\Debug\Model.dll
+D:\ProjectGallery\CodeSample\CSharp\CacheTest\Model\obj\Debug\Model.pdb

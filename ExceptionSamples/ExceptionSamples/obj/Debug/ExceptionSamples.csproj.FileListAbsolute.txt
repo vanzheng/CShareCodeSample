@@ -1,0 +1,5 @@
+D:\ProjectGallery\CodeSample\CSharp\ExceptionSamples\ExceptionSamples\bin\Debug\ExceptionSamples.exe
+D:\ProjectGallery\CodeSample\CSharp\ExceptionSamples\ExceptionSamples\bin\Debug\ExceptionSamples.pdb
+D:\ProjectGallery\CodeSample\CSharp\ExceptionSamples\ExceptionSamples\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\ExceptionSamples\ExceptionSamples\obj\Debug\ExceptionSamples.exe
+D:\ProjectGallery\CodeSample\CSharp\ExceptionSamples\ExceptionSamples\obj\Debug\ExceptionSamples.pdb

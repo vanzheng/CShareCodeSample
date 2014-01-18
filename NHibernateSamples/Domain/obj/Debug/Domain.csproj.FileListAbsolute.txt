@@ -1,0 +1,6 @@
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\Domain\bin\Debug\hibernate.cfg.xml
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\Domain\bin\Debug\Domain.dll
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\Domain\bin\Debug\Domain.pdb
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\Domain\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\Domain\obj\Debug\Domain.dll
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\Domain\obj\Debug\Domain.pdb

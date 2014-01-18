@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntaxHighlightingTextBox", "SyntaxHighlightingTextBox\SyntaxHighlightingTextBox.csproj", "{93EC5C55-84BB-4FA4-8599-A6C85841E982}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{0380CCB4-A754-4110-A186-F56007761005}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{93EC5C55-84BB-4FA4-8599-A6C85841E982}.Debug.ActiveCfg = Debug|.NET
+		{93EC5C55-84BB-4FA4-8599-A6C85841E982}.Debug.Build.0 = Debug|.NET
+		{93EC5C55-84BB-4FA4-8599-A6C85841E982}.Release.ActiveCfg = Release|.NET
+		{93EC5C55-84BB-4FA4-8599-A6C85841E982}.Release.Build.0 = Release|.NET
+		{0380CCB4-A754-4110-A186-F56007761005}.Debug.ActiveCfg = Debug|.NET
+		{0380CCB4-A754-4110-A186-F56007761005}.Debug.Build.0 = Debug|.NET
+		{0380CCB4-A754-4110-A186-F56007761005}.Release.ActiveCfg = Release|.NET
+		{0380CCB4-A754-4110-A186-F56007761005}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

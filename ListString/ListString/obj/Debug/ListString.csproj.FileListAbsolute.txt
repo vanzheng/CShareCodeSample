@@ -1,0 +1,5 @@
+D:\ProjectGallery\CodeSample\CSharp\ListString\ListString\bin\Debug\ListString.exe
+D:\ProjectGallery\CodeSample\CSharp\ListString\ListString\bin\Debug\ListString.pdb
+D:\ProjectGallery\CodeSample\CSharp\ListString\ListString\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\ListString\ListString\obj\Debug\ListString.exe
+D:\ProjectGallery\CodeSample\CSharp\ListString\ListString\obj\Debug\ListString.pdb

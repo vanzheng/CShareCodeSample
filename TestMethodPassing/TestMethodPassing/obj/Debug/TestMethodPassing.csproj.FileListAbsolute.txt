@@ -1,0 +1,5 @@
+D:\ProjectGallery\CodeSample\CSharp\TestMethodPassing\TestMethodPassing\bin\Debug\TestMethodPassing.exe
+D:\ProjectGallery\CodeSample\CSharp\TestMethodPassing\TestMethodPassing\bin\Debug\TestMethodPassing.pdb
+D:\ProjectGallery\CodeSample\CSharp\TestMethodPassing\TestMethodPassing\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\TestMethodPassing\TestMethodPassing\obj\Debug\TestMethodPassing.exe
+D:\ProjectGallery\CodeSample\CSharp\TestMethodPassing\TestMethodPassing\obj\Debug\TestMethodPassing.pdb

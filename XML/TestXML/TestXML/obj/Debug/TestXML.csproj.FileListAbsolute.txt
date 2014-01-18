@@ -1,0 +1,5 @@
+D:\ProjectGallery\CodeSample\CSharp\XML\TestXML\TestXML\bin\Debug\TestXML.exe
+D:\ProjectGallery\CodeSample\CSharp\XML\TestXML\TestXML\bin\Debug\TestXML.pdb
+D:\ProjectGallery\CodeSample\CSharp\XML\TestXML\TestXML\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\XML\TestXML\TestXML\obj\Debug\TestXML.exe
+D:\ProjectGallery\CodeSample\CSharp\XML\TestXML\TestXML\obj\Debug\TestXML.pdb

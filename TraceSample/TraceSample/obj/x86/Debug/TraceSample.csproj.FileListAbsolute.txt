@@ -1,0 +1,5 @@
+D:\ProjectGallery\CodeSample\CSharp\TraceSample\TraceSample\bin\Debug\TraceSample.exe.config
+D:\ProjectGallery\CodeSample\CSharp\TraceSample\TraceSample\bin\Debug\TraceSample.exe
+D:\ProjectGallery\CodeSample\CSharp\TraceSample\TraceSample\bin\Debug\TraceSample.pdb
+D:\ProjectGallery\CodeSample\CSharp\TraceSample\TraceSample\obj\x86\Debug\TraceSample.exe
+D:\ProjectGallery\CodeSample\CSharp\TraceSample\TraceSample\obj\x86\Debug\TraceSample.pdb

@@ -1,0 +1,14 @@
+D:\ProjectGallery\CodeSample\CSharp\TestConsole\UnitTestSample\MySample\bin\Debug\MySample.dll
+D:\ProjectGallery\CodeSample\CSharp\TestConsole\UnitTestSample\MySample\bin\Debug\MySample.pdb
+D:\ProjectGallery\CodeSample\CSharp\TestConsole\UnitTestSample\MySample\bin\Debug\nunit.framework.dll
+D:\ProjectGallery\CodeSample\CSharp\TestConsole\UnitTestSample\MySample\bin\Debug\nunit.framework.xml
+D:\ProjectGallery\CodeSample\CSharp\TestConsole\UnitTestSample\MySample\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\TestConsole\UnitTestSample\MySample\obj\Debug\MySample.dll
+D:\ProjectGallery\CodeSample\CSharp\TestConsole\UnitTestSample\MySample\obj\Debug\MySample.pdb
+D:\ProjectGallery\CodeSample\CSharp\UnitTestSample\MySample\bin\Debug\MySample.dll
+D:\ProjectGallery\CodeSample\CSharp\UnitTestSample\MySample\bin\Debug\MySample.pdb
+D:\ProjectGallery\CodeSample\CSharp\UnitTestSample\MySample\bin\Debug\nunit.framework.dll
+D:\ProjectGallery\CodeSample\CSharp\UnitTestSample\MySample\bin\Debug\nunit.framework.xml
+D:\ProjectGallery\CodeSample\CSharp\UnitTestSample\MySample\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\UnitTestSample\MySample\obj\Debug\MySample.dll
+D:\ProjectGallery\CodeSample\CSharp\UnitTestSample\MySample\obj\Debug\MySample.pdb

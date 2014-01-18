@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 20
+/svn/test/!svn/ver/1
+END
+TestConsole.suo
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/test/!svn/ver/1/TestConsole.suo
+END
+TestConsole.sln
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/test/!svn/ver/1/TestConsole.sln
+END

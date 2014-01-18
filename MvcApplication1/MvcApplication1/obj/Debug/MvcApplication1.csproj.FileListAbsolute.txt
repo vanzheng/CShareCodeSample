@@ -1,0 +1,7 @@
+D:\ProjectGallery\CodeSample\CSharp\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll
+D:\ProjectGallery\CodeSample\CSharp\MvcApplication1\MvcApplication1\bin\MvcApplication1.pdb
+D:\ProjectGallery\CodeSample\CSharp\MvcApplication1\MvcApplication1\bin\EntityFramework.dll
+D:\ProjectGallery\CodeSample\CSharp\MvcApplication1\MvcApplication1\bin\EntityFramework.xml
+D:\ProjectGallery\CodeSample\CSharp\MvcApplication1\MvcApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
+D:\ProjectGallery\CodeSample\CSharp\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb

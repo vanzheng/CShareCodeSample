@@ -1,0 +1,5 @@
+D:\ProjectGallery\CodeSample\CSharp\PathTests\PathTests\bin\Debug\PathTests.exe
+D:\ProjectGallery\CodeSample\CSharp\PathTests\PathTests\bin\Debug\PathTests.pdb
+D:\ProjectGallery\CodeSample\CSharp\PathTests\PathTests\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\PathTests\PathTests\obj\Debug\PathTests.exe
+D:\ProjectGallery\CodeSample\CSharp\PathTests\PathTests\obj\Debug\PathTests.pdb

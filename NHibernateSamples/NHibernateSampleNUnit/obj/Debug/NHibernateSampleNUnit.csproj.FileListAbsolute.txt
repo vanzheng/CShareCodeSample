@@ -1,0 +1,14 @@
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\NHibernateSampleNUnit\bin\Debug\hibernate.cfg.xml
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\NHibernateSampleNUnit\bin\Debug\NHibernateSampleNUnit.dll
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\NHibernateSampleNUnit\bin\Debug\NHibernateSampleNUnit.pdb
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\NHibernateSampleNUnit\bin\Debug\Business.dll
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\NHibernateSampleNUnit\bin\Debug\Domain.dll
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\NHibernateSampleNUnit\bin\Debug\NHibernate.dll
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\NHibernateSampleNUnit\bin\Debug\nunit.framework.dll
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\NHibernateSampleNUnit\bin\Debug\Iesi.Collections.dll
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\NHibernateSampleNUnit\bin\Debug\Business.pdb
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\NHibernateSampleNUnit\bin\Debug\nunit.framework.xml
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\NHibernateSampleNUnit\bin\Debug\Domain.pdb
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\NHibernateSampleNUnit\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\NHibernateSampleNUnit\obj\Debug\NHibernateSampleNUnit.dll
+D:\ProjectGallery\CodeSample\CSharp\NHibernateSamples\NHibernateSampleNUnit\obj\Debug\NHibernateSampleNUnit.pdb

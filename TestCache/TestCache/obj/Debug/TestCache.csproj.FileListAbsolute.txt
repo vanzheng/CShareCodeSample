@@ -1,0 +1,5 @@
+D:\ProjectGallery\CodeSample\CSharp\TestCache\TestCache\bin\Debug\TestCache.exe
+D:\ProjectGallery\CodeSample\CSharp\TestCache\TestCache\bin\Debug\TestCache.pdb
+D:\ProjectGallery\CodeSample\CSharp\TestCache\TestCache\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\TestCache\TestCache\obj\Debug\TestCache.exe
+D:\ProjectGallery\CodeSample\CSharp\TestCache\TestCache\obj\Debug\TestCache.pdb

@@ -1,0 +1,5 @@
+G:\ProjectGallery\CodeSample\CSharp\TestGenericInterface\TestGenericInterface\obj\Debug\ResolveAssemblyReference.cache
+G:\ProjectGallery\CodeSample\CSharp\TestGenericInterface\TestGenericInterface\bin\Debug\TestGenericInterface.exe
+G:\ProjectGallery\CodeSample\CSharp\TestGenericInterface\TestGenericInterface\bin\Debug\TestGenericInterface.pdb
+G:\ProjectGallery\CodeSample\CSharp\TestGenericInterface\TestGenericInterface\obj\Debug\TestGenericInterface.exe
+G:\ProjectGallery\CodeSample\CSharp\TestGenericInterface\TestGenericInterface\obj\Debug\TestGenericInterface.pdb

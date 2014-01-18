@@ -1,0 +1,5 @@
+D:\ProjectGallery\CodeSample\CSharp\StringFormatter\StringFormatter\bin\Debug\StringFormatter.exe
+D:\ProjectGallery\CodeSample\CSharp\StringFormatter\StringFormatter\bin\Debug\StringFormatter.pdb
+D:\ProjectGallery\CodeSample\CSharp\StringFormatter\StringFormatter\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\StringFormatter\StringFormatter\obj\Debug\StringFormatter.exe
+D:\ProjectGallery\CodeSample\CSharp\StringFormatter\StringFormatter\obj\Debug\StringFormatter.pdb

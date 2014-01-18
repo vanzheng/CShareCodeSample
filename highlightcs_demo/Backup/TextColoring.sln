@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextColorizerTest", "http://localhost:19999/TextColorizerTest/TextColorizerTest.csproj", "{D7F11A0C-3E65-42D0-8743-82CEA117A003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorizerLibrary", "ColorizerLibrary\ColorizerLibrary.csproj", "{72331A21-C452-4BE4-BFDB-B8029A6BC1C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D7F11A0C-3E65-42D0-8743-82CEA117A003}.Debug.ActiveCfg = Debug|.NET
+		{D7F11A0C-3E65-42D0-8743-82CEA117A003}.Debug.Build.0 = Debug|.NET
+		{D7F11A0C-3E65-42D0-8743-82CEA117A003}.Release.ActiveCfg = Release|.NET
+		{D7F11A0C-3E65-42D0-8743-82CEA117A003}.Release.Build.0 = Release|.NET
+		{72331A21-C452-4BE4-BFDB-B8029A6BC1C0}.Debug.ActiveCfg = Debug|.NET
+		{72331A21-C452-4BE4-BFDB-B8029A6BC1C0}.Debug.Build.0 = Debug|.NET
+		{72331A21-C452-4BE4-BFDB-B8029A6BC1C0}.Release.ActiveCfg = Release|.NET
+		{72331A21-C452-4BE4-BFDB-B8029A6BC1C0}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

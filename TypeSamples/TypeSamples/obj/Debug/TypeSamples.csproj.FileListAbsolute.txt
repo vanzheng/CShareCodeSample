@@ -1,0 +1,5 @@
+D:\ProjectGallery\CodeSample\CSharp\TypeSamples\TypeSamples\bin\Debug\TypeSamples.exe
+D:\ProjectGallery\CodeSample\CSharp\TypeSamples\TypeSamples\bin\Debug\TypeSamples.pdb
+D:\ProjectGallery\CodeSample\CSharp\TypeSamples\TypeSamples\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\TypeSamples\TypeSamples\obj\Debug\TypeSamples.exe
+D:\ProjectGallery\CodeSample\CSharp\TypeSamples\TypeSamples\obj\Debug\TypeSamples.pdb

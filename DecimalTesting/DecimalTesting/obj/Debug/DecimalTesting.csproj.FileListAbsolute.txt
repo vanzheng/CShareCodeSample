@@ -1,0 +1,5 @@
+D:\ProjectGallery\CodeSample\CSharp\DecimalTesting\DecimalTesting\bin\Debug\DecimalTesting.exe
+D:\ProjectGallery\CodeSample\CSharp\DecimalTesting\DecimalTesting\bin\Debug\DecimalTesting.pdb
+D:\ProjectGallery\CodeSample\CSharp\DecimalTesting\DecimalTesting\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\DecimalTesting\DecimalTesting\obj\Debug\DecimalTesting.exe
+D:\ProjectGallery\CodeSample\CSharp\DecimalTesting\DecimalTesting\obj\Debug\DecimalTesting.pdb

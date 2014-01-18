@@ -1,0 +1,7 @@
+D:\Projects\TestBaseAndDerivedClass\TestBaseAndDerivedClass\bin\Debug\TestBaseAndDerivedClass.exe
+D:\Projects\TestBaseAndDerivedClass\TestBaseAndDerivedClass\bin\Debug\TestBaseAndDerivedClass.pdb
+D:\Projects\TestBaseAndDerivedClass\TestBaseAndDerivedClass\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\TestBaseAndDerivedClass\TestBaseAndDerivedClass\obj\Debug\TestBaseAndDerivedClass.exe
+D:\Projects\TestBaseAndDerivedClass\TestBaseAndDerivedClass\obj\Debug\TestBaseAndDerivedClass.pdb
+D:\ProjectGallery\CodeSample\CSharp\TestBaseAndDerivedClass\TestBaseAndDerivedClass\obj\Debug\TestBaseAndDerivedClass.exe
+D:\ProjectGallery\CodeSample\CSharp\TestBaseAndDerivedClass\TestBaseAndDerivedClass\obj\Debug\TestBaseAndDerivedClass.pdb

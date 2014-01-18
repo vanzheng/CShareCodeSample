@@ -1,0 +1,6 @@
+D:\ProjectGallery\CodeSample\CSharp\TestProject2\TestProject2\bin\Debug\TestProject2.dll
+D:\ProjectGallery\CodeSample\CSharp\TestProject2\TestProject2\bin\Debug\TestProject2.pdb
+D:\ProjectGallery\CodeSample\CSharp\TestProject2\TestProject2\bin\Debug\testNetFunction.dll
+D:\ProjectGallery\CodeSample\CSharp\TestProject2\TestProject2\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\TestProject2\TestProject2\obj\Debug\TestProject2.dll
+D:\ProjectGallery\CodeSample\CSharp\TestProject2\TestProject2\obj\Debug\TestProject2.pdb

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/test/!svn/ver/3/TestConsole/TestConsole/bin/Debug
+END
+TestConsole.exe
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/test/!svn/ver/3/TestConsole/TestConsole/bin/Debug/TestConsole.exe
+END
+TestConsole.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/test/!svn/ver/3/TestConsole/TestConsole/bin/Debug/TestConsole.pdb
+END
+TestConsole.vshost.exe
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/test/!svn/ver/3/TestConsole/TestConsole/bin/Debug/TestConsole.vshost.exe
+END
+TestConsole.vshost.exe.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/test/!svn/ver/3/TestConsole/TestConsole/bin/Debug/TestConsole.vshost.exe.manifest
+END

@@ -1,0 +1,5 @@
+D:\ProjectGallery\CodeSample\CSharp\DebugConditionalSample\DebugConditionalSample\bin\Debug\DebugConditionalSample.exe
+D:\ProjectGallery\CodeSample\CSharp\DebugConditionalSample\DebugConditionalSample\bin\Debug\DebugConditionalSample.pdb
+D:\ProjectGallery\CodeSample\CSharp\DebugConditionalSample\DebugConditionalSample\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\DebugConditionalSample\DebugConditionalSample\obj\Debug\DebugConditionalSample.exe
+D:\ProjectGallery\CodeSample\CSharp\DebugConditionalSample\DebugConditionalSample\obj\Debug\DebugConditionalSample.pdb

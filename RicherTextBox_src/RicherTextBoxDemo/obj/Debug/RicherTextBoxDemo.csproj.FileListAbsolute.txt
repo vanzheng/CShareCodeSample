@@ -1,0 +1,10 @@
+D:\ProjectGallery\CodeSample\CSharp\RicherTextBox_src\RicherTextBoxDemo\bin\Debug\RicherTextBoxDemo.exe
+D:\ProjectGallery\CodeSample\CSharp\RicherTextBox_src\RicherTextBoxDemo\bin\Debug\RicherTextBoxDemo.pdb
+D:\ProjectGallery\CodeSample\CSharp\RicherTextBox_src\RicherTextBoxDemo\bin\Debug\RicherTextBox.dll
+D:\ProjectGallery\CodeSample\CSharp\RicherTextBox_src\RicherTextBoxDemo\bin\Debug\RicherTextBox.pdb
+D:\ProjectGallery\CodeSample\CSharp\RicherTextBox_src\RicherTextBoxDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\RicherTextBox_src\RicherTextBoxDemo\obj\Debug\RicherTextBoxDemo.MainForm.resources
+D:\ProjectGallery\CodeSample\CSharp\RicherTextBox_src\RicherTextBoxDemo\obj\Debug\RicherTextBoxDemo.Properties.Resources.resources
+D:\ProjectGallery\CodeSample\CSharp\RicherTextBox_src\RicherTextBoxDemo\obj\Debug\RicherTextBoxDemo.csproj.GenerateResource.Cache
+D:\ProjectGallery\CodeSample\CSharp\RicherTextBox_src\RicherTextBoxDemo\obj\Debug\RicherTextBoxDemo.exe
+D:\ProjectGallery\CodeSample\CSharp\RicherTextBox_src\RicherTextBoxDemo\obj\Debug\RicherTextBoxDemo.pdb

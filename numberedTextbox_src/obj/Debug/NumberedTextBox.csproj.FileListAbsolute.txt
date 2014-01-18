@@ -1,0 +1,9 @@
+D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\bin\Debug\NumberedTextBox.exe
+D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\bin\Debug\NumberedTextBox.pdb
+D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\obj\Debug\NumberedTextBox.Form1.resources
+D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\obj\Debug\NumberedTextBox.NumberedTextBoxUC.resources
+D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\obj\Debug\NumberedTextBox.Properties.Resources.resources
+D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\obj\Debug\NumberedTextBox.csproj.GenerateResource.Cache
+D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\obj\Debug\NumberedTextBox.exe
+D:\ProjectGallery\CodeSample\CSharp\numberedTextbox_src\obj\Debug\NumberedTextBox.pdb

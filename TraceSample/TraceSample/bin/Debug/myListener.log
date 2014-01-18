@@ -1,0 +1,28 @@
+Begin
+End
+    2012/7/21 16:07:15 - Start of WriteEnvironmentInfoToTrace
+        Operating system: Microsoft Windows NT 6.1.7601 Service Pack 1
+        Computer name: GIFT-WIN7
+        User name: gift
+        CLR runtime version: 4.0.30319.17626
+        Command line: "D:\ProjectGallery\CodeSample\CSharp\TraceSample\TraceSample\bin\Debug\TraceSample.vshost.exe" 
+        Number of configured trace listeners = 2
+        Trace listener name = Default
+                       type = System.Diagnostics.DefaultTraceListener
+        Trace listener name = config2ConsoleListener
+                       type = System.Diagnostics.TextWriterTraceListener
+    2012/7/21 16:07:15 - End of WriteEnvironmentInfoToTrace
+Begin
+End
+    2012/7/21 16:27:24 - Start of WriteEnvironmentInfoToTrace
+        Operating system: Microsoft Windows NT 6.1.7601 Service Pack 1
+        Computer name: GIFT-WIN7
+        User name: gift
+        CLR runtime version: 4.0.30319.17626
+        Command line: "D:\ProjectGallery\CodeSample\CSharp\TraceSample\TraceSample\bin\Debug\TraceSample.vshost.exe" 
+        Number of configured trace listeners = 2
+        Trace listener name = Default
+                       type = System.Diagnostics.DefaultTraceListener
+        Trace listener name = config2ConsoleListener
+                       type = System.Diagnostics.TextWriterTraceListener
+    2012/7/21 16:27:24 - End of WriteEnvironmentInfoToTrace

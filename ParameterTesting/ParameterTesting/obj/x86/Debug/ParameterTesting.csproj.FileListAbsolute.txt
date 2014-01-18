@@ -1,0 +1,4 @@
+D:\ProjectGallery\CodeSample\CSharp\ParameterTesting\ParameterTesting\bin\Debug\ParameterTesting.exe
+D:\ProjectGallery\CodeSample\CSharp\ParameterTesting\ParameterTesting\bin\Debug\ParameterTesting.pdb
+D:\ProjectGallery\CodeSample\CSharp\ParameterTesting\ParameterTesting\obj\x86\Debug\ParameterTesting.exe
+D:\ProjectGallery\CodeSample\CSharp\ParameterTesting\ParameterTesting\obj\x86\Debug\ParameterTesting.pdb

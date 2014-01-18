@@ -1,0 +1,7 @@
+D:\Projects\TestHastTable\TestHastTable\bin\Debug\TestHastTable.exe
+D:\Projects\TestHastTable\TestHastTable\bin\Debug\TestHastTable.pdb
+D:\Projects\TestHastTable\TestHastTable\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\TestHastTable\TestHastTable\obj\Debug\TestHastTable.exe
+D:\Projects\TestHastTable\TestHastTable\obj\Debug\TestHastTable.pdb
+D:\ProjectGallery\CodeSample\CSharp\TestHastTable\TestHastTable\obj\Debug\TestHastTable.exe
+D:\ProjectGallery\CodeSample\CSharp\TestHastTable\TestHastTable\obj\Debug\TestHastTable.pdb

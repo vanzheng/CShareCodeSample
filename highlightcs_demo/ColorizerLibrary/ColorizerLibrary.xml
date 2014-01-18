@@ -1,0 +1,486 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ColorizerLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:ColorizerLibrary.Benchmark.AvgTimer">
+            <summary>
+            A timer with averaging and counting
+            </summary>
+        </member>
+        <member name="T:ColorizerLibrary.Benchmark.BasicTimer">
+            <summary>
+            A basic timer class
+            </summary>
+        </member>
+        <member name="M:ColorizerLibrary.Benchmark.BasicTimer.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:ColorizerLibrary.Benchmark.BasicTimer.Start">
+            <summary>
+            Starts the timer
+            </summary>
+        </member>
+        <member name="M:ColorizerLibrary.Benchmark.BasicTimer.Stop">
+            <summary>
+            Stops the timer
+            </summary>
+        </member>
+        <member name="P:ColorizerLibrary.Benchmark.BasicTimer.Duration">
+            <summary>
+            Returns the duration of the last call
+            </summary>
+        </member>
+        <member name="M:ColorizerLibrary.Benchmark.AvgTimer.#ctor">
+            <summary>
+            An averaging/normalizing timer.
+            </summary>
+            <example>In this example, we measure the time to parse a string. The string length will be passed to the 
+            timer to have a sec/char time measurement.
+            <code>
+            string str;
+            AvgTimer timer = new AvgTimer();
+            //Start timer
+            timer.Start( str.Length);
+            ... // do things
+            timer.Stop();
+            result = "The processing timer per character is " + timer.DurationPerQuantity;
+            </code>
+            </example>
+        </member>
+        <member name="M:ColorizerLibrary.Benchmark.AvgTimer.Start(System.Int64)">
+            <summary>
+            Starts timer
+            </summary>
+            <param name="quantity">Quantity that will be processed</param>
+        </member>
+        <member name="M:ColorizerLibrary.Benchmark.AvgTimer.Stop">
+            <summary>
+            Stops the timer
+            </summary>
+        </member>
+        <member name="M:ColorizerLibrary.Benchmark.AvgTimer.Reset">
+            <summary>
+            Resests internal run counter and time integrator
+            </summary>
+        </member>
+        <member name="P:ColorizerLibrary.Benchmark.AvgTimer.TotalDuration">
+            <summary>
+            Returns the sum of timer runs
+            </summary>
+            <value>Sum of timer runs</value>
+        </member>
+        <member name="P:ColorizerLibrary.Benchmark.AvgTimer.RunCount">
+            <summary>
+            Returns the number of runs that the timer has done
+            </summary>
+            <value>Run count</value>
+        </member>
+        <member name="P:ColorizerLibrary.Benchmark.AvgTimer.DurationPerQuantity">
+            <summary>
+            Returns a normalized time measurement
+            </summary>
+            <value><see cref="F:ColorizerLibrary.Benchmark.AvgTimer.TotalTime"/> divided by <see cref="F:ColorizerLibrary.Benchmark.AvgTimer.TotalQuantity"/></value>
+        </member>
+        <member name="P:ColorizerLibrary.Benchmark.AvgTimer.DurationPerRun">
+            <summary>
+            Returns average time per run
+            </summary>
+            <value>Duration divided by <seealso cref="F:ColorizerLibrary.Benchmark.AvgTimer.RunNumber"/></value>
+        </member>
+        <member name="T:ColorizerLibrary.Collections.RegexDictionary">
+            <summary>
+             Dictionnary associating string to Regex
+            </summary>
+            <remarks>This implementation uses a HashTable to store the Regex objects</remarks>
+        </member>
+        <member name="M:ColorizerLibrary.Collections.RegexDictionary.#ctor">
+            <summary>
+            Default constructor.
+            </summary>
+        </member>
+        <member name="M:ColorizerLibrary.Collections.RegexDictionary.Add(System.String,System.Text.RegularExpressions.Regex)">
+            <summary>
+            Adds a pair string - Regex to the Dictionary
+            </summary>
+            <param name="key">string identifying the regular expression string</param>
+            <param name="regExp">Regular expression string</param>
+        </member>
+        <member name="M:ColorizerLibrary.Collections.RegexDictionary.GetRegexOptions(System.Xml.XmlNode)">
+            <summary>
+            Retreive the regular expression options from the language node
+            </summary>
+            <param name="languageNode">langue name</param>
+            <returns>RegexOptions enumeration combination</returns>
+        </member>
+        <member name="M:ColorizerLibrary.Collections.RegexDictionary.AddKey(System.Xml.XmlNode,System.Xml.XmlNode,System.String)">
+            <summary>
+            Add a regex depending on 2 node
+            </summary>
+            <param name="languageNode">Langage node</param>
+            <param name="subNode">Sub node</param>
+            <param name="sRegExp">Regular expression string</param>
+        </member>
+        <member name="M:ColorizerLibrary.Collections.RegexDictionary.AddKey(System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.String)">
+            <summary>
+            Add a regex depending on 3 node
+            </summary>
+            <param name="languageNode">Langage node</param>
+            <param name="subNode">Sub node</param>
+            <param name="subNode2">Sub node 2</param>
+            <param name="sRegExp">Regular expression string</param>
+            <exception>If node don't have Id field</exception>
+        </member>
+        <member name="M:ColorizerLibrary.Collections.RegexDictionary.GetKey(System.Xml.XmlNode,System.Xml.XmlNode)">
+            <summary>
+            Retreives the regular expression out of 2 nodes
+            </summary>
+            <param name="languageNode"></param>
+            <param name="subNode"></param>
+            <returns>Regular expression</returns>
+            <exception>If can't find Regex object</exception>
+        </member>
+        <member name="M:ColorizerLibrary.Collections.RegexDictionary.GetKey(System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode)">
+            <summary>
+            Retreives the regular expression out of 3 nodes
+            </summary>
+            <param name="languageNode"></param>
+            <param name="subNode"></param>
+            <param name="subNode2"></param>
+            <returns>Regular expression</returns>
+            <exception>If can't find Regex object</exception>
+        </member>
+        <member name="T:ColorizerLibrary.Config.ConfigurationSectionHandler">
+            <summary>
+            Configuration handler for code colorizer
+            </summary>
+            <remarks>Returns the XmlNode ColorizerLibrary of the Web.config</remarks>
+            <remarks>Used in DomConfigurator</remarks>
+        </member>
+        <member name="M:ColorizerLibrary.Config.ConfigurationSectionHandler.#ctor">
+            <summary>
+            Default constructor
+            </summary>
+        </member>
+        <member name="M:ColorizerLibrary.Config.ConfigurationSectionHandler.Create(System.Object,System.Object,System.Xml.XmlNode)">
+            <summary>
+            Returns the section parameter
+            </summary>
+            <param name="parent"></param>
+            <param name="configContext"></param>
+            <param name="section"></param>
+            <returns>section</returns>
+        </member>
+        <member name="T:ColorizerLibrary.Config.DOMConfigurator">
+            <summary>
+            Configure a colorizer from DOM
+            </summary>
+        </member>
+        <member name="M:ColorizerLibrary.Config.DOMConfigurator.#ctor">
+            <summary>
+            Default constructor
+            </summary>
+        </member>
+        <member name="M:ColorizerLibrary.Config.DOMConfigurator.Configure">
+            <summary>
+            Loads the configuration from the Web.Config and create a CodeColorizer
+            </summary>
+            <returns>Initialized colorizer</returns>
+            <exception cref="T:System.Exception">Throws if ColorizerLibrary node is not found</exception>
+            <exception cref="T:System.Exception">Throws if ColorizerLibrary/syntax node is not found</exception>
+            <exception cref="T:System.Exception">Throws if ColorizerLibrary/style node is not found</exception>
+        </member>
+        <member name="T:ColorizerLibrary.Config.IConfigurator">
+            <summary>
+            Description résumée de IConfigurator.
+            </summary>
+        </member>
+        <member name="T:ColorizerLibrary.Config.SimpleConfigurator">
+            <summary>
+            Simple configurator
+            </summary>
+        </member>
+        <member name="M:ColorizerLibrary.Config.SimpleConfigurator.Configure">
+            <summary>
+            Creates code colorizer
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ColorizerLibrary.Config.SimpleConfigurator.SetSyntaxFileName(System.String)">
+            <summary>
+            Syntax XML file name
+            </summary>
+        </member>
+        <member name="M:ColorizerLibrary.Config.SimpleConfigurator.SetStyleFileName(System.String)">
+            <summary>
+            Syntax XML file name
+            </summary>
+        </member>
+        <member name="T:ColorizerLibrary.Control.TextColorizerControl">
+            <summary>
+            A syntax colorizing control
+            </summary>
+        </member>
+        <member name="M:ColorizerLibrary.Control.TextColorizerControl.#ctor">
+            <summary>
+            Default constructor
+            </summary>
+        </member>
+        <member name="M:ColorizerLibrary.Control.TextColorizerControl.Render(System.Web.UI.HtmlTextWriter)">
+            <summary>
+            Renders the code
+            </summary>
+            <remarks>You must specify a colorizing engine using SetSyntaxEngine before calling this method</remarks>
+            <param name="output">HTML writer</param>
+        </member>
+        <member name="P:ColorizerLibrary.Control.TextColorizerControl.SyntaxEngine">
+            <summary>
+            The syntax engine does the job.
+            </summary>
+        </member>
+        <member name="T:ColorizerLibrary.Helpers.XmlHelper">
+            <summary>
+            Some basic function helpers for xml creation.
+            </summary>
+        </member>
+        <member name="M:ColorizerLibrary.Helpers.XmlHelper.XmlAddChildCDATAElem(System.Xml.XmlNode,System.String,System.String)">
+            <summary>adds a CDATA child elem</summary>
+            <param name="node">node to append child</param>
+            <param name="nodeName">new child node name</param>
+            <param name="cdata">CDATA value</param>
+            <exception>If could not create child node</exception>
+            <exception>If could not create CDATA node</exception>
+            <remarks>Author: Jonathan de Halleux, dehalleux@pelikhan.com, 2003</remarks>
+            		
+        </member>
+        <member name="M:ColorizerLibrary.Helpers.XmlHelper.XmlAddChildElem(System.Xml.XmlNode,System.String,System.String)">
+            <summary>adds a text child elem</summary>
+            <param name="node">node to append child</param>
+            <param name="nodeName">new child node name</param>
+            <param name="text">text value</param>
+            <exception>If could not create child node</exception>
+            <remarks>Author: Jonathan de Halleux, dehalleux@pelikhan.com, 2003</remarks>
+        </member>
+        <member name="M:ColorizerLibrary.Helpers.XmlHelper.XmlSetAttribute(System.Xml.XmlNode,System.String,System.String)">
+            <summary>
+            Adds an attribute to the node
+            <param name="node">node to modify</param>
+            <param name="name">Attribute name</param>
+            <param name="text">Attribute value</param>
+            </summary>
+        </member>
+        <member name="M:ColorizerLibrary.Helpers.XmlHelper.GetIdFromNode(System.Xml.XmlNode)">
+            <summary>
+            Extracts the value of the id attribute
+            </summary>
+            <param name="node">A xml node</param>
+            <returns>Value of the id attribute</returns>
+            <exception cref="T:System.Exception">Throws if the node is not null</exception>
+            <exception cref="T:System.Exception">Throws if the id attribute is not found</exception>
+        </member>
+        <member name="T:ColorizerLibrary.Repository.IRepository">
+            <summary>
+            Description résumée de IRepository.
+            </summary>
+        </member>
+        <member name="M:ColorizerLibrary.Repository.IRepository.GetColorizer(System.String)">
+            <summary>
+            Returns a code colorizer associated to a key
+            </summary>
+        </member>
+        <member name="T:ColorizerLibrary.Repository.SingleInstanceRepository">
+            <summary>
+            Description résumée de CodeColorizerRepository.
+            </summary>
+        </member>
+        <member name="T:ColorizerLibrary.CodeColorizer">
+            <summary>
+            Code colorizer provides a flexible solution for colorizing code
+            </summary>
+        </member>
+        <member name="F:ColorizerLibrary.CodeColorizer.Log">
+            <summary>
+            Logger
+            </summary>
+        </member>
+        <member name="F:ColorizerLibrary.CodeColorizer.LanguageSyntax">
+            <summary>
+            Syntax description file
+            </summary>
+        </member>
+        <member name="F:ColorizerLibrary.CodeColorizer.LanguageStyle">
+            <summary>
+            Code stylesheet
+            </summary>
+        </member>
+        <member name="F:ColorizerLibrary.CodeColorizer.ReplaceByCodeDelegate">
+            <summary>
+            Delegate for Regex.Replace
+            </summary>
+        </member>
+        <member name="F:ColorizerLibrary.CodeColorizer.Timer">
+            <summary>
+            A timer
+            </summary>
+        </member>
+        <member name="F:ColorizerLibrary.CodeColorizer.EndOfLine">
+            <summary>
+            End of line constant string
+            </summary>
+        </member>
+        <member name="F:ColorizerLibrary.CodeColorizer.RxDic">
+            <summary>
+            Regular expressions container
+            </summary>
+        </member>
+        <member name="F:ColorizerLibrary.CodeColorizer.OpeningTag">
+            <summary>
+            Opening tag string
+            </summary>
+        </member>
+        <member name="F:ColorizerLibrary.CodeColorizer.ClosingTag">
+            <summary>
+            Closing tag string.
+            </summary>
+        </member>
+        <member name="F:ColorizerLibrary.CodeColorizer.Tag">
+            <summary>
+            Tag enclosing code
+            </summary>
+        </member>
+        <member name="F:ColorizerLibrary.CodeColorizer.LangTag">
+            <summary>
+            Language tag attribute name
+            </summary>
+        </member>
+        <member name="F:ColorizerLibrary.CodeColorizer.LanguageSyntaxFileName">
+            <summary>
+            Syntax file name
+            </summary>
+        </member>
+        <member name="F:ColorizerLibrary.CodeColorizer.LanguageStyleFileName">
+            <summary>
+            Style file name
+            </summary>
+        </member>
+        <member name="F:ColorizerLibrary.CodeColorizer.InBox">
+            <summary>
+            Boxed, non boxed code flag
+            </summary>
+        </member>
+        <member name="M:ColorizerLibrary.CodeColorizer.#ctor(System.String,System.String)">
+            <summary>
+            Default constructor
+            </summary>
+            <param name="sLanguageSyntax">XML syntax file name</param>
+            <param name="sLanguageStyle">XSL style file name</param>
+        </member>
+        <member name="M:ColorizerLibrary.CodeColorizer.ToString">
+            <summary>
+            Converting to string
+            </summary>
+            <returns>Returns the syntax and style in a string</returns>
+        </member>
+        <member name="M:ColorizerLibrary.CodeColorizer.Init">
+            <summary>Load language files and preprocess them. Loads xsl file.</summary>
+            <remarks>Call this method to reload the language files.</remarks>
+        </member>
+        <member name="M:ColorizerLibrary.CodeColorizer.ProcessAndHighlightText(System.String)">
+            <summary>Processes HTML and highlight code in <pre>...</pre> and in <code>...</code></summary>
+            <param name="sValue">HTML code</param>
+            <returns>HTML with colored code</returns>
+            Available languages: C++ -> cpp, JSCript -> jscript, VBScript -> vbscript
+            <remarks>Author: Jonathan de Halleux, dehalleux@pelikhan.com, 2003</remarks>
+        </member>
+        <member name="M:ColorizerLibrary.CodeColorizer.BuildKeywordRegExp(System.Xml.XmlNode)">
+            <summary>Builds keywords family regular expressions</summary>
+            <param name="languageNode">language node</param>
+            <remarks>This method create regular expression that match a whole keyword family and 
+            add it as a parameter "regexp" to the keywordlist node.</remarks>
+            <remarks>Author: Jonathan de Halleux, dehalleux@pelikhan.com, 2003</remarks>
+        </member>
+        <member name="M:ColorizerLibrary.CodeColorizer.BuildRuleRegExp(System.Xml.XmlNode,System.Xml.XmlNode)">
+            <summary>Builds regular expression out of contextNode</summary>
+            <param name="languageNode">language node</param>
+            <param name="contextNode">context node</param>
+            <remarks>This method create regular expression that match all the context rules
+            add it as a parameter "regexp" to the context node.</remarks>
+            <exception>If keyword family not corresponding to keyword attribute.</exception>
+            <exception>Regular expression rule missing regexp argument</exception>
+            <remarks>Author: Jonathan de Halleux, dehalleux@pelikhan.com, 2003</remarks>
+        </member>
+        <member name="M:ColorizerLibrary.CodeColorizer.BuildRules(System.Xml.XmlNode)">
+            <summary>Precompiles regular expressions, search strings and prepares rules attribute</summary>
+            <param name="languageNode"><seealso cref="T:System.Xml.XmlNode"/> context node</param>
+            <exception>If rule id not corresponding to a rule family</exception>
+            <remarks>Author: Jonathan de Halleux, dehalleux@pelikhan.com, 2003</remarks>
+        </member>
+        <member name="M:ColorizerLibrary.CodeColorizer.BuildSyntax">
+            <summary>Prepares syntax xml file</summary>
+            <remarks>Author: Jonathan de Halleux, dehalleux@pelikhan.com, 2003</remarks>
+        </member>
+        <member name="M:ColorizerLibrary.CodeColorizer.FindRule(System.Xml.XmlNode,System.Xml.XmlNode,System.String)">
+            <summary>Finds the rule that trigerred the match</summary>
+            <param name="languageNode">language node</param>
+            <param name="contextNode">context node</param>
+            <param name="sMatch">that matched the context regular expression</param>
+            <remarks>If the Regex finds a rule occurence, this method is used to find which rule has been trigerred.</remarks>
+            <exception>Triggers if sMatch does not match any rule of contextNode</exception>
+            <remarks>Author: Jonathan de Halleux, dehalleux@pelikhan.com, 2003</remarks>
+        </member>
+        <member name="M:ColorizerLibrary.CodeColorizer.ApplyRules(System.Xml.XmlNode,System.Xml.XmlNode,System.String,System.Xml.XmlNode)">
+            <summary>Applies the context rules succesively to sString</summary>
+            <param name="languageNode">language node</param>
+            <param name="contextNode">context node</param>
+            <param name="sString">String to parse and convert</param>
+            <param name="parsedCodeNode">mother node for dumping parsed code</param>
+            <remarks>This methods uses the pre-computed regular expressions of context rules, rule matching, etc...
+            the result is outputted in the xmlResult document, starting at parsedCodeNode node.</remarks>
+            <remarks>Author: Jonathan de Halleux, dehalleux@pelikhan.com, 2003</remarks>
+        </member>
+        <member name="M:ColorizerLibrary.CodeColorizer.BuildHighlightTree(System.String,System.String,System.String)">
+            <summary>Create and populate an xml document with the corresponging language</summary>
+            <param name="sLang">language string description. For C++, use cpp.</param> 
+            <param name="sRootTag">Root tag (under parsed code) for the generated xml tree.</param> 
+            <param name="sCode">Code to parse</param>
+            <returns><seealso cref="T:System.Xml.XmlDocument"/> document containing parsed node.</returns>
+            <remarks>This method builds an XML tree containing context node. Use an xsl file to render it.</remarks>
+            <remarks>Author: Jonathan de Halleux, dehalleux@pelikhan.com, 2003</remarks>
+        </member>
+        <member name="M:ColorizerLibrary.CodeColorizer.HighlightCode(System.String,System.String,System.String)">
+            <summary>Apply syntax matching to sCode with the corresponding language sLang</summary>
+            <param name="sLang">language string description. For C++, use cpp.</param> 
+            <param name="sRootTag">Root tag (under parsed code) for the generated xml tree.</param> 
+            <param name="sCode">Code to parse</param>
+            <returns>the highlighted code.</returns>
+            <remarks>Author: Jonathan de Halleux, dehalleux@pelikhan.com, 2003</remarks>
+        </member>
+        <member name="M:ColorizerLibrary.CodeColorizer.FindLang(System.String)">
+            <summary>Find the lang in the tag</summary>
+            <param name="sMatch">a string</param>
+            <returns>the value of the parameter corresponding to sGlobDefaultLong</returns>
+        </member>
+        <member name="M:ColorizerLibrary.CodeColorizer.ReplaceByCode(System.Text.RegularExpressions.Match)">
+            <summary> Helper function to be used in String::Replace</summary>
+            <param name="match">Full match</param>
+        </member>
+        <member name="P:ColorizerLibrary.CodeColorizer.BenchmarkSecPerChar">
+            <summary>
+            Returns the computation time/character of the last call
+            </summary>
+        </member>
+        <member name="P:ColorizerLibrary.CodeColorizer.BenchmarkSec">
+            <summary>
+            Returns the computation time of the last call
+            </summary>
+        </member>
+        <member name="P:ColorizerLibrary.CodeColorizer.BenchmarkAvgSec">
+            <summary>
+            Returns the average computation time
+            </summary>
+        </member>
+    </members>
+</doc>

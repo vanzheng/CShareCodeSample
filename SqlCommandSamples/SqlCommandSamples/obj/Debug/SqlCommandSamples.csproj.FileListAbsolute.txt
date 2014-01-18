@@ -1,0 +1,7 @@
+D:\ProjectGallery\CodeSample\CSharp\SqlCommandSamples\SqlCommandSamples\bin\Debug\App.config
+D:\ProjectGallery\CodeSample\CSharp\SqlCommandSamples\SqlCommandSamples\bin\Debug\SqlCommandSamples.exe.config
+D:\ProjectGallery\CodeSample\CSharp\SqlCommandSamples\SqlCommandSamples\bin\Debug\SqlCommandSamples.exe
+D:\ProjectGallery\CodeSample\CSharp\SqlCommandSamples\SqlCommandSamples\bin\Debug\SqlCommandSamples.pdb
+D:\ProjectGallery\CodeSample\CSharp\SqlCommandSamples\SqlCommandSamples\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectGallery\CodeSample\CSharp\SqlCommandSamples\SqlCommandSamples\obj\Debug\SqlCommandSamples.exe
+D:\ProjectGallery\CodeSample\CSharp\SqlCommandSamples\SqlCommandSamples\obj\Debug\SqlCommandSamples.pdb
