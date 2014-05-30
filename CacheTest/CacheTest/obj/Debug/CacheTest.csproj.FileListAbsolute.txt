@@ -1,7 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\CacheTest\CacheTest\bin\CacheTest.dll
-D:\ProjectGallery\CodeSample\CSharp\CacheTest\CacheTest\bin\CacheTest.pdb
-D:\ProjectGallery\CodeSample\CSharp\CacheTest\CacheTest\bin\Model.dll
-D:\ProjectGallery\CodeSample\CSharp\CacheTest\CacheTest\bin\Model.pdb
-D:\ProjectGallery\CodeSample\CSharp\CacheTest\CacheTest\obj\Debug\CacheTest.csprojResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\CacheTest\CacheTest\obj\Debug\CacheTest.dll
-D:\ProjectGallery\CodeSample\CSharp\CacheTest\CacheTest\obj\Debug\CacheTest.pdb

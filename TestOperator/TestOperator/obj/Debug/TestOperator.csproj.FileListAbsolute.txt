@@ -1,5 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\TestOperator\TestOperator\bin\Debug\TestOperator.exe
-D:\ProjectGallery\CodeSample\CSharp\TestOperator\TestOperator\bin\Debug\TestOperator.pdb
-D:\ProjectGallery\CodeSample\CSharp\TestOperator\TestOperator\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\TestOperator\TestOperator\obj\Debug\TestOperator.exe
-D:\ProjectGallery\CodeSample\CSharp\TestOperator\TestOperator\obj\Debug\TestOperator.pdb

@@ -1,5 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\RegexExpressionSample\RegexExpressionSample\bin\Debug\RegexExpressionSample.exe
-D:\ProjectGallery\CodeSample\CSharp\RegexExpressionSample\RegexExpressionSample\bin\Debug\RegexExpressionSample.pdb
-D:\ProjectGallery\CodeSample\CSharp\RegexExpressionSample\RegexExpressionSample\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\RegexExpressionSample\RegexExpressionSample\obj\Debug\RegexExpressionSample.exe
-D:\ProjectGallery\CodeSample\CSharp\RegexExpressionSample\RegexExpressionSample\obj\Debug\RegexExpressionSample.pdb

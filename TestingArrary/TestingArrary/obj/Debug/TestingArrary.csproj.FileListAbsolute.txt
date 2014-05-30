@@ -1,5 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\TestingArrary\TestingArrary\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\TestingArrary\TestingArrary\bin\Debug\TestingArrary.exe
-D:\ProjectGallery\CodeSample\CSharp\TestingArrary\TestingArrary\bin\Debug\TestingArrary.pdb
-D:\ProjectGallery\CodeSample\CSharp\TestingArrary\TestingArrary\obj\Debug\TestingArrary.exe
-D:\ProjectGallery\CodeSample\CSharp\TestingArrary\TestingArrary\obj\Debug\TestingArrary.pdb

@@ -1,5 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\ArrayCopySamples\ArrayCopySamples\bin\Debug\ArrayCopySamples.exe
-D:\ProjectGallery\CodeSample\CSharp\ArrayCopySamples\ArrayCopySamples\bin\Debug\ArrayCopySamples.pdb
-D:\ProjectGallery\CodeSample\CSharp\ArrayCopySamples\ArrayCopySamples\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\ArrayCopySamples\ArrayCopySamples\obj\Debug\ArrayCopySamples.exe
-D:\ProjectGallery\CodeSample\CSharp\ArrayCopySamples\ArrayCopySamples\obj\Debug\ArrayCopySamples.pdb

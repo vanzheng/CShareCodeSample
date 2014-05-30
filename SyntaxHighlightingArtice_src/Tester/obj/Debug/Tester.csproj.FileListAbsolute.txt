@@ -1,9 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\SyntaxHighlightingArtice_src\Tester\bin\Debug\Tester.exe
-D:\ProjectGallery\CodeSample\CSharp\SyntaxHighlightingArtice_src\Tester\bin\Debug\Tester.pdb
-D:\ProjectGallery\CodeSample\CSharp\SyntaxHighlightingArtice_src\Tester\bin\Debug\SyntaxHighlightingTextBox.dll
-D:\ProjectGallery\CodeSample\CSharp\SyntaxHighlightingArtice_src\Tester\bin\Debug\SyntaxHighlightingTextBox.pdb
-D:\ProjectGallery\CodeSample\CSharp\SyntaxHighlightingArtice_src\Tester\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\SyntaxHighlightingArtice_src\Tester\obj\Debug\Tester.Form1.resources
-D:\ProjectGallery\CodeSample\CSharp\SyntaxHighlightingArtice_src\Tester\obj\Debug\Tester.csproj.GenerateResource.Cache
-D:\ProjectGallery\CodeSample\CSharp\SyntaxHighlightingArtice_src\Tester\obj\Debug\Tester.exe
-D:\ProjectGallery\CodeSample\CSharp\SyntaxHighlightingArtice_src\Tester\obj\Debug\Tester.pdb

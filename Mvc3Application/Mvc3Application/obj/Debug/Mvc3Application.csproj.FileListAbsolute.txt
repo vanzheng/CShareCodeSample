@@ -1,7 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\Mvc3Application\Mvc3Application\bin\Mvc3Application.dll
-D:\ProjectGallery\CodeSample\CSharp\Mvc3Application\Mvc3Application\bin\Mvc3Application.pdb
-D:\ProjectGallery\CodeSample\CSharp\Mvc3Application\Mvc3Application\bin\EntityFramework.dll
-D:\ProjectGallery\CodeSample\CSharp\Mvc3Application\Mvc3Application\bin\EntityFramework.xml
-D:\ProjectGallery\CodeSample\CSharp\Mvc3Application\Mvc3Application\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\Mvc3Application\Mvc3Application\obj\Debug\Mvc3Application.dll
-D:\ProjectGallery\CodeSample\CSharp\Mvc3Application\Mvc3Application\obj\Debug\Mvc3Application.pdb

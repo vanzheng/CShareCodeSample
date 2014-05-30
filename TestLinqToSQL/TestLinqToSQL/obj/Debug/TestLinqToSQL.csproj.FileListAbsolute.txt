@@ -1,6 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\TestLinqToSQL\TestLinqToSQL\bin\Debug\TestLinqToSQL.exe.config
-D:\ProjectGallery\CodeSample\CSharp\TestLinqToSQL\TestLinqToSQL\bin\Debug\TestLinqToSQL.exe
-D:\ProjectGallery\CodeSample\CSharp\TestLinqToSQL\TestLinqToSQL\bin\Debug\TestLinqToSQL.pdb
-D:\ProjectGallery\CodeSample\CSharp\TestLinqToSQL\TestLinqToSQL\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\TestLinqToSQL\TestLinqToSQL\obj\Debug\TestLinqToSQL.exe
-D:\ProjectGallery\CodeSample\CSharp\TestLinqToSQL\TestLinqToSQL\obj\Debug\TestLinqToSQL.pdb

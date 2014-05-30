@@ -1,8 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\TestRichTextBox\TestRichTextBox\bin\Debug\TestRichTextBox.exe
-D:\ProjectGallery\CodeSample\CSharp\TestRichTextBox\TestRichTextBox\bin\Debug\TestRichTextBox.pdb
-D:\ProjectGallery\CodeSample\CSharp\TestRichTextBox\TestRichTextBox\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\TestRichTextBox\TestRichTextBox\obj\Debug\TestRichTextBox.frmMain.resources
-D:\ProjectGallery\CodeSample\CSharp\TestRichTextBox\TestRichTextBox\obj\Debug\TestRichTextBox.Properties.Resources.resources
-D:\ProjectGallery\CodeSample\CSharp\TestRichTextBox\TestRichTextBox\obj\Debug\TestRichTextBox.csproj.GenerateResource.Cache
-D:\ProjectGallery\CodeSample\CSharp\TestRichTextBox\TestRichTextBox\obj\Debug\TestRichTextBox.exe
-D:\ProjectGallery\CodeSample\CSharp\TestRichTextBox\TestRichTextBox\obj\Debug\TestRichTextBox.pdb

@@ -1,5 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\FuncSamples\FuncSamples\bin\Debug\FuncSamples.exe
-D:\ProjectGallery\CodeSample\CSharp\FuncSamples\FuncSamples\bin\Debug\FuncSamples.pdb
-D:\ProjectGallery\CodeSample\CSharp\FuncSamples\FuncSamples\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\FuncSamples\FuncSamples\obj\Debug\FuncSamples.exe
-D:\ProjectGallery\CodeSample\CSharp\FuncSamples\FuncSamples\obj\Debug\FuncSamples.pdb

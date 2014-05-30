@@ -1,3 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\highlightcs_demo\ColorizerLibrary\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\highlightcs_demo\ColorizerLibrary\obj\Debug\ColorizerLibrary.dll
-D:\ProjectGallery\CodeSample\CSharp\highlightcs_demo\ColorizerLibrary\obj\Debug\ColorizerLibrary.pdb

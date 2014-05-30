@@ -1,5 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\SpecialCharLength\SpecialCharLength\bin\Debug\SpecialCharLength.exe
-D:\ProjectGallery\CodeSample\CSharp\SpecialCharLength\SpecialCharLength\bin\Debug\SpecialCharLength.pdb
-D:\ProjectGallery\CodeSample\CSharp\SpecialCharLength\SpecialCharLength\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\SpecialCharLength\SpecialCharLength\obj\Debug\SpecialCharLength.exe
-D:\ProjectGallery\CodeSample\CSharp\SpecialCharLength\SpecialCharLength\obj\Debug\SpecialCharLength.pdb

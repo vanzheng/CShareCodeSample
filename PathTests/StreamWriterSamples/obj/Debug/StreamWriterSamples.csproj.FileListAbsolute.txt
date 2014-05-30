@@ -1,5 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\PathTests\StreamWriterSamples\bin\Debug\StreamWriterSamples.exe
-D:\ProjectGallery\CodeSample\CSharp\PathTests\StreamWriterSamples\bin\Debug\StreamWriterSamples.pdb
-D:\ProjectGallery\CodeSample\CSharp\PathTests\StreamWriterSamples\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\PathTests\StreamWriterSamples\obj\Debug\StreamWriterSamples.exe
-D:\ProjectGallery\CodeSample\CSharp\PathTests\StreamWriterSamples\obj\Debug\StreamWriterSamples.pdb

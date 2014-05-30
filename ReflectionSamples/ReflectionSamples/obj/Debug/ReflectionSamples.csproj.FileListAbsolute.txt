@@ -1,5 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\ReflectionSamples\ReflectionSamples\bin\Debug\ReflectionSamples.exe
-D:\ProjectGallery\CodeSample\CSharp\ReflectionSamples\ReflectionSamples\bin\Debug\ReflectionSamples.pdb
-D:\ProjectGallery\CodeSample\CSharp\ReflectionSamples\ReflectionSamples\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\ReflectionSamples\ReflectionSamples\obj\Debug\ReflectionSamples.exe
-D:\ProjectGallery\CodeSample\CSharp\ReflectionSamples\ReflectionSamples\obj\Debug\ReflectionSamples.pdb

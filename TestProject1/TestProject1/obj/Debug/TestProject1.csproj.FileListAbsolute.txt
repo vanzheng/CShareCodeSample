@@ -1,6 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\TestProject1.dll
-D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\TestProject1.pdb
-D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\bin\Debug\testNetFunction.dll
-D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\obj\Debug\TestProject1.dll
-D:\ProjectGallery\CodeSample\CSharp\TestProject1\TestProject1\obj\Debug\TestProject1.pdb

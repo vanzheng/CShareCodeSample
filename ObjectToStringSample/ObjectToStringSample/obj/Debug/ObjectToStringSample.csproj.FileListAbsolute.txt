@@ -1,5 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\ObjectToStringSample\ObjectToStringSample\bin\Debug\ObjectToStringSample.exe
-D:\ProjectGallery\CodeSample\CSharp\ObjectToStringSample\ObjectToStringSample\bin\Debug\ObjectToStringSample.pdb
-D:\ProjectGallery\CodeSample\CSharp\ObjectToStringSample\ObjectToStringSample\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\ObjectToStringSample\ObjectToStringSample\obj\Debug\ObjectToStringSample.exe
-D:\ProjectGallery\CodeSample\CSharp\ObjectToStringSample\ObjectToStringSample\obj\Debug\ObjectToStringSample.pdb

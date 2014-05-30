@@ -1,8 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\TestRtf\TestRtf\bin\Debug\TestRtf.exe
-D:\ProjectGallery\CodeSample\CSharp\TestRtf\TestRtf\bin\Debug\TestRtf.pdb
-D:\ProjectGallery\CodeSample\CSharp\TestRtf\TestRtf\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\TestRtf\TestRtf\obj\Debug\TestRtf.Form1.resources
-D:\ProjectGallery\CodeSample\CSharp\TestRtf\TestRtf\obj\Debug\TestRtf.Properties.Resources.resources
-D:\ProjectGallery\CodeSample\CSharp\TestRtf\TestRtf\obj\Debug\TestRtf.csproj.GenerateResource.Cache
-D:\ProjectGallery\CodeSample\CSharp\TestRtf\TestRtf\obj\Debug\TestRtf.exe
-D:\ProjectGallery\CodeSample\CSharp\TestRtf\TestRtf\obj\Debug\TestRtf.pdb

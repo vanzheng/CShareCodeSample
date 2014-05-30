@@ -1,5 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\ListClone\ListClone\bin\Debug\ListClone.exe
-D:\ProjectGallery\CodeSample\CSharp\ListClone\ListClone\bin\Debug\ListClone.pdb
-D:\ProjectGallery\CodeSample\CSharp\ListClone\ListClone\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\ListClone\ListClone\obj\Debug\ListClone.exe
-D:\ProjectGallery\CodeSample\CSharp\ListClone\ListClone\obj\Debug\ListClone.pdb

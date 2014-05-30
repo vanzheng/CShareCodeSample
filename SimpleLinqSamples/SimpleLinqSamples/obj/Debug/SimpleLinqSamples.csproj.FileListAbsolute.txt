@@ -1,5 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\SimpleLinqSamples\SimpleLinqSamples\bin\Debug\SimpleLinqSamples.exe
-D:\ProjectGallery\CodeSample\CSharp\SimpleLinqSamples\SimpleLinqSamples\bin\Debug\SimpleLinqSamples.pdb
-D:\ProjectGallery\CodeSample\CSharp\SimpleLinqSamples\SimpleLinqSamples\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\SimpleLinqSamples\SimpleLinqSamples\obj\Debug\SimpleLinqSamples.exe
-D:\ProjectGallery\CodeSample\CSharp\SimpleLinqSamples\SimpleLinqSamples\obj\Debug\SimpleLinqSamples.pdb

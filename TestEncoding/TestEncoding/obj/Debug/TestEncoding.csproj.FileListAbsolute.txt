@@ -1,7 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\TestEncoding\TestEncoding\bin\Debug\TestEncoding.exe
-D:\ProjectGallery\CodeSample\CSharp\TestEncoding\TestEncoding\bin\Debug\TestEncoding.pdb
-D:\ProjectGallery\CodeSample\CSharp\TestEncoding\TestEncoding\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\TestEncoding\TestEncoding\obj\Debug\TestEncoding.Properties.Resources.resources
-D:\ProjectGallery\CodeSample\CSharp\TestEncoding\TestEncoding\obj\Debug\TestEncoding.csproj.GenerateResource.Cache
-D:\ProjectGallery\CodeSample\CSharp\TestEncoding\TestEncoding\obj\Debug\TestEncoding.exe
-D:\ProjectGallery\CodeSample\CSharp\TestEncoding\TestEncoding\obj\Debug\TestEncoding.pdb

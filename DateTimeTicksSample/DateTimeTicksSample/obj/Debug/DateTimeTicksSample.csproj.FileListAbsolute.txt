@@ -1,5 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\DateTimeTicksSample\DateTimeTicksSample\bin\Debug\DateTimeTicksSample.exe
-D:\ProjectGallery\CodeSample\CSharp\DateTimeTicksSample\DateTimeTicksSample\bin\Debug\DateTimeTicksSample.pdb
-D:\ProjectGallery\CodeSample\CSharp\DateTimeTicksSample\DateTimeTicksSample\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\DateTimeTicksSample\DateTimeTicksSample\obj\Debug\DateTimeTicksSample.exe
-D:\ProjectGallery\CodeSample\CSharp\DateTimeTicksSample\DateTimeTicksSample\obj\Debug\DateTimeTicksSample.pdb

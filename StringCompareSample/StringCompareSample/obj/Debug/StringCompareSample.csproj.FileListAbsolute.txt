@@ -1,5 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\StringCompareSample\StringCompareSample\bin\Debug\StringCompareSample.exe
-D:\ProjectGallery\CodeSample\CSharp\StringCompareSample\StringCompareSample\bin\Debug\StringCompareSample.pdb
-D:\ProjectGallery\CodeSample\CSharp\StringCompareSample\StringCompareSample\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\StringCompareSample\StringCompareSample\obj\Debug\StringCompareSample.exe
-D:\ProjectGallery\CodeSample\CSharp\StringCompareSample\StringCompareSample\obj\Debug\StringCompareSample.pdb

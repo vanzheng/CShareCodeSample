@@ -6,3 +6,13 @@ Thumbs.db
 *.vssscc
 *.suo
 *.sln.docstates
+
+
+# Folders ignored
+_[Oo]utput/
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+obj/
+_ReSharper*/
+[Tt]est[Rr]esult*

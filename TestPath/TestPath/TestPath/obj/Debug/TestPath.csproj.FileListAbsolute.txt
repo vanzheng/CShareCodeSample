@@ -1,5 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\TestPath\TestPath\TestPath\bin\Debug\TestPath.exe
-D:\ProjectGallery\CodeSample\CSharp\TestPath\TestPath\TestPath\bin\Debug\TestPath.pdb
-D:\ProjectGallery\CodeSample\CSharp\TestPath\TestPath\TestPath\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\TestPath\TestPath\TestPath\obj\Debug\TestPath.exe
-D:\ProjectGallery\CodeSample\CSharp\TestPath\TestPath\TestPath\obj\Debug\TestPath.pdb

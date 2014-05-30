@@ -1,5 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\SyntaxHighlighter\bin\Debug\SyntaxHighlighter.dll
-D:\ProjectGallery\CodeSample\CSharp\SyntaxHighlighter\bin\Debug\SyntaxHighlighter.pdb
-D:\ProjectGallery\CodeSample\CSharp\SyntaxHighlighter\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\SyntaxHighlighter\obj\Debug\SyntaxHighlighter.dll
-D:\ProjectGallery\CodeSample\CSharp\SyntaxHighlighter\obj\Debug\SyntaxHighlighter.pdb

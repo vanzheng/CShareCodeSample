@@ -1,9 +1,0 @@
-D:\ProjectGallery\CodeSample\CSharp\ORDesignerWalkthrough\ORDesignerWalkthrough\bin\Debug\ORDesignerWalkthrough.exe.config
-D:\ProjectGallery\CodeSample\CSharp\ORDesignerWalkthrough\ORDesignerWalkthrough\bin\Debug\ORDesignerWalkthrough.exe
-D:\ProjectGallery\CodeSample\CSharp\ORDesignerWalkthrough\ORDesignerWalkthrough\bin\Debug\ORDesignerWalkthrough.pdb
-D:\ProjectGallery\CodeSample\CSharp\ORDesignerWalkthrough\ORDesignerWalkthrough\obj\Debug\ResolveAssemblyReference.cache
-D:\ProjectGallery\CodeSample\CSharp\ORDesignerWalkthrough\ORDesignerWalkthrough\obj\Debug\ORDesignerWalkthrough.Form1.resources
-D:\ProjectGallery\CodeSample\CSharp\ORDesignerWalkthrough\ORDesignerWalkthrough\obj\Debug\ORDesignerWalkthrough.Properties.Resources.resources
-D:\ProjectGallery\CodeSample\CSharp\ORDesignerWalkthrough\ORDesignerWalkthrough\obj\Debug\ORDesignerWalkthrough.csproj.GenerateResource.Cache
-D:\ProjectGallery\CodeSample\CSharp\ORDesignerWalkthrough\ORDesignerWalkthrough\obj\Debug\ORDesignerWalkthrough.exe
-D:\ProjectGallery\CodeSample\CSharp\ORDesignerWalkthrough\ORDesignerWalkthrough\obj\Debug\ORDesignerWalkthrough.pdb
